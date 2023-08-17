@@ -31,3 +31,14 @@ MG90S Servo motor
 <img
 src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/servo%20motor.png" width="250">
 </p>
+
+## System Overview Flowchart
+<p align="center">
+<img
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_1.png" width="250">
+</p>
+
+<p align="center">
+<img
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_2.png" width="250">
+</p>
