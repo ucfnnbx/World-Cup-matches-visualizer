@@ -35,7 +35,7 @@ src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/se
 ## System Overview Flowchart
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_1.png" width="250">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_1.png" width="200">
 </p>
 
 <p align="center">
