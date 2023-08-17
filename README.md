@@ -11,13 +11,13 @@ src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/De
 Microcontroller: Adafruit Feather Huzzah
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Feather%20Huzzah.png" width="150">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Feather%20Huzzah.png" width="250">
 </p>
 
 Waveshare Round 1.28" LCD Screen (240x240 pixels)
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/LCD%20screen.png" width="500">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/LCD%20screen.png" width="250">
 </p>
 
 Neopixel WS2812B 144 LEDs
@@ -35,10 +35,10 @@ src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/se
 ## System Overview Flowchart
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_1.png" width="250">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_1.png" width="150">
 </p>
 
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_2.png" width="250">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_2.png" width="500">
 </p>
