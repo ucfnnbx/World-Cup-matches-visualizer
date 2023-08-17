@@ -40,5 +40,5 @@ src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Ov
 
 <p align="center">
 <img
-src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_2.png" width="500">
+src="https://github.com/ucfnnbx/World-Cup-matches-visualizer/blob/main/Assets/Overview_2.png" width="400">
 </p>
